@@ -46,7 +46,7 @@
 .hero {
   width: 70%;
   padding: 20px;
-  text-align: justify;
+  /* text-align: justify; */
 }
 
 .hero h1,
@@ -197,8 +197,16 @@ td:nth-child(5) {
 .container .table tfoot {
   background-color: #212529;
   color: #fff;
-  font-size: 12px;
+  font-size: 16px;
   text-align: center;
+}
+
+.btn-detail {
+  display: block;
+  width: 20%;
+  margin: 10px 0;
+  text-align: center;
+  background-color: green;
 }
 
 .btn {

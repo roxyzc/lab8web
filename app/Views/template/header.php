@@ -15,9 +15,9 @@
             <h1>Layout Sederhana</h1>
         </header>
         <nav class="navbar">
-            <a class="active" href="home">Home</a>
-            <a href="artikel">Articel</a>
-            <a href="about">About</a>
-            <a href="contact">Contact</a>
+            <a class="active" href="<?= base_url("home") ?>">Home</a>
+            <a href="<?= base_url("artikel") ?>">Articel</a>
+            <a href="<?= base_url("about") ?>">About</a>
+            <a href="<?= base_url("contact") ?>">Contact</a>
         </nav>
         <section class="wrapper">

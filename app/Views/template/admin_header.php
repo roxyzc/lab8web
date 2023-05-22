@@ -12,10 +12,10 @@
 <body>
     <div class="container">
         <header class="header">
-            <h1>Layout Sederhana</h1>
+            <h1>Admin</h1>
         </header>
         <nav class="navbar">
             <a href="<?= base_url("/admin/artikel"); ?>" class="active">Dashboard</a>
-            <a href="artikel">Articel</a>
-            <a href="<?= base_url('/admin/artikel/add'); ?>">Add Articel</a>
+            <a href="<?= base_url("/admin/artikel"); ?>">Articel</a>
+            <a href="<?= base_url("/admin/artikel/add"); ?>">Add Articel</a>
         </nav>
