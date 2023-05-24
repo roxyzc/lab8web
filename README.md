@@ -14,6 +14,10 @@
 
 ![roxyzc](./img/artikel.png)
 
+## Detail
+
+![roxyzc](./img/detail.png)
+
 ## Articel (admin only)
 
 ![roxyzc](./img/admin.png)
