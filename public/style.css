@@ -307,3 +307,7 @@ td:nth-child(5) {
   width: 100%;
   margin: 10px 0;
 }
+
+.alert-danger {
+  color: red;
+}
