@@ -231,17 +231,18 @@ td:nth-child(5) {
 }
 
 .form {
-  margin: 50px;
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 20px;
+  margin: 50px;
 }
 
 .form form {
   display: flex;
   flex-direction: column;
   gap: 10px;
+  /* width: 100%; */
 }
 
 .form form label {
@@ -253,5 +254,6 @@ td:nth-child(5) {
 .form form textarea {
   font-size: 14px;
   padding: 8px;
+  border: 1px solid black;
   border-radius: 8px;
 }
