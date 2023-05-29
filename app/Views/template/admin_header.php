@@ -13,6 +13,7 @@
     <div class="container">
         <header class="header">
             <h1>Admin</h1>
+            <a class="logout btn btn-danger" href="<?= base_url("/user/logout") ?>">Logout</a>
         </header>
         <nav class="navbar">
             <a href="<?= base_url("/admin/artikel"); ?>" class="active">Dashboard</a>

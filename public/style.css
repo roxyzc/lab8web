@@ -17,8 +17,11 @@
 }
 
 .header {
-  padding: 10px;
+  padding: 20px;
   opacity: 0.5;
+  display: flex;
+  justify-content: space-between;
+  gap: 20;
 }
 
 .active {
@@ -256,4 +259,51 @@ td:nth-child(5) {
   padding: 8px;
   border: 1px solid black;
   border-radius: 8px;
+}
+
+/* login */
+.loginPage {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.loginPage #login-wrapper {
+  border: 1px solid black;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.loginPage #login-wrapper h1 {
+  text-align: center;
+}
+
+.loginPage #login-wrapper form {
+  padding: 10px;
+  width: 300px;
+}
+
+.loginPage #login-wrapper .p {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px 0;
+}
+
+.loginPage #login-wrapper .form-label {
+  font-size: 16px;
+}
+
+.loginPage #login-wrapper .form-control {
+  border: 1px solid black;
+  padding: 10px;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.loginPage #login-wrapper button {
+  width: 100%;
+  margin: 10px 0;
 }
