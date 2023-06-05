@@ -311,3 +311,43 @@ td:nth-child(5) {
 .alert-danger {
   color: red;
 }
+
+/* pagination */
+.pagination {
+  display: flex;
+  justify-content: center;
+}
+
+.pagination li {
+  list-style: none;
+  background-color: transparent;
+  padding: 0px 4px 16px 10px;
+}
+
+.pagination li.active a {
+  background-color: rgba(100, 100, 100, 0.69);
+}
+
+.pagination li a {
+  color: white;
+  padding: 8px 14px;
+  background-color: #000;
+}
+
+/* search */
+.form-search {
+  width: 80%;
+  margin: 0 auto;
+  padding: 18px 0 0 0;
+}
+
+.form-search input {
+  padding: 8px 6px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.btn.btn-primary {
+  border-radius: 5px;
+  padding: 8px 10px;
+}

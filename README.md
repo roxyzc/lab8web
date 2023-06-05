@@ -6,10 +6,6 @@
 
 # Output
 
-## Login
+## pagination
 
-![roxyzc](./img/login.png)
-
-## Artikel
-
-![roxyzc](./img/adminke2.png)
+![roxyzc](./img/pagination.png)
