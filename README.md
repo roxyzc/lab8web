@@ -6,6 +6,10 @@
 
 # Output
 
-## pagination
+## arikel
 
-![roxyzc](./img/pagination.png)
+![roxyzc](./img/artikel2.png)
+
+## add
+
+![roxyzc](./img/add2.png)
