@@ -8,4 +8,8 @@
 
 ## postman
 
-![roxyzc](./img/postman.png)
+![roxyzc](./img/CREATE.png)
+
+![roxyzc](./img/GET.png)
+
+![roxyzc](./img/DELETE.png)
