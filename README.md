@@ -6,10 +6,6 @@
 
 # Output
 
-## arikel
+## postman
 
-![roxyzc](./img/artikel2.png)
-
-## add
-
-![roxyzc](./img/add2.png)
+![roxyzc](./img/postman.png)
